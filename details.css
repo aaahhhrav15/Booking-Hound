@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600;800&family=Fira+Sans:wght@100&family=Hind:wght@300&family=Kanit:wght@200&display=swap');
+
+.info1{
+    position: relative;
+    left: 117px;
+    bottom:-40px;
+    height: 350px;
+    width: 250px;
+}
+.event1{
+    display: flex;
+    background-color: black;
+    height: 450px;
+}
+.star{
+    position: relative;
+    height: 4%;
+    width: 2%;
+    left: 10.5%;
+    bottom: -31.3%;
+}
+.event1 h2{
+    position: relative;
+    left:  9%;
+    bottom: -7.5%;
+    font-size: 210%;
+    height: 40px;
+    color: white;
+    white-space: nowrap;
+}
+.rating{
+    position: relative;
+    left:-2%;
+    bottom: -139px;
+    font-size:130%;
+    font-weight: bold;
+    height: 20px;
+    color: white;
+    white-space: nowrap;
+}
+.duration{
+    position: relative;
+    bottom: -90px;
+    right: 125px;
+    font-size: large;
+    font-weight: bold;    
+    height: 20px;
+    color: white;
+    white-space: nowrap;
+}
+.cast{
+    position: relative;
+    right: 434px;
+    bottom:-360px;
+    font-size: 130%;
+    width: 500px;
+    display:inline;
+    font-weight: bold;
+    white-space: nowrap;
+    color: white;
+}
+.d2{
+    position: relative;
+    height: 30px;
+    width: 60px;
+    background-color: rgb(207, 199, 199);
+    font-size: larger;
+    border-radius: 4px;
+    left:-935px;
+    bottom: -190px;
+}
+.d2 p{
+    position: relative;
+    padding: 6px;
+    left: 0.5px;
+    bottom: 1.5px;
+}
+.hindi{
+    height: 30px;
+    width: 90px;
+    background-color: rgb(207, 199, 199);
+    position: relative;
+    left: -920px;
+    bottom: -190px;
+    border-radius: 4px;
+    font-size: larger;
+}
+.hindi p{
+    position: relative;
+    left: 1px;
+    padding: 5px;
+    bottom: 1px;
+}
+.book{
+    position: relative;
+    height: 40px;
+    left: -1025px;
+    width: 180px;
+    white-space: nowrap;
+    bottom: -270px;
+    background-color: rgb(140, 255, 0);
+    font-size: larger;
+    border-radius: 5px;
+    font-weight: 600;
+}
+.book p{
+    padding: 15px;
+    position: relative;
+    bottom: 5.5px;
+}
+.about{
+    position: relative;
+    left: 120px;
+    bottom: -40px;
+    font-size: 180%;
+}
+.para{
+    position: relative;
+    left: 120px;
+    bottom: -60px;
+    width: 900px;
+    font-size: 120%;
+}
+.oppy{
+    width: 100px;
+}
+.oppie{
+    width: 90px;
+}
+.eng{
+    width: 120px;
+}
+.bookopp{
+    position: relative;
+    left: -1140px;
+}
+.blue{
+    position: relative;
+    left: -965px;
+}
+.english{
+    position: relative;
+    left: -945px;
+}
+.bookblue{
+    position: relative;
+    left: -1120px;
+}
+.bluecast{
+    position: relative;
+    left: -465px;
+}
+.grating{
+    position: relative;
+    left:45px;
+}
+.gduration{
+    position: relative;
+    left:-50px;
+}
+.gd2{
+    position: relative;
+    left: -783px;
+}
+.hindigadar{
+    position: relative;
+    left: -750px;
+}
+.gadarbook{
+    position: relative;
+    left: -900px;
+}
+.gadarcast{
+    position: relative;
+    left: -280px;
+}
+.omgduration{
+    position: relative;
+    left: -145px;
+}
+.od2{
+    position: relative;
+    left: -875px;    
+}
+.hindiomg{
+    position: relative;
+    left: -860px;
+}
+.omgbook{
+    position: relative;
+    left: -965px;
+}
+.omgcast{
+    position: relative;
+    left: -375px;
+}
